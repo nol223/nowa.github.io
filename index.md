@@ -12,7 +12,7 @@ Welcome to my page! I’m a devoted numbers enthusiast with a passion for the pr
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/nol223/nowa.github.io/images/Headshot1.png" 
+  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" 
 </p>
 
 ---
