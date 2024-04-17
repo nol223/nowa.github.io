@@ -1,11 +1,5 @@
 ## About Me
 
-What's up? hey\|you
-
-## About Me
-
-What's up? hey\|you
-
 Welcome to my page! I’m a devoted numbers enthusiast with a passion for the precision and unpredictability of finance. My journey began at Lehigh University, where I couldn't settle for just one discipline—I had to tackle two, earning dual degrees in Applied Statistics and Finance. Now, I’m on the brink of completing my Master’s in Financial Engineering, also at Lehigh, where I’m set to graduate in May 2024. My academic pursuits are as varied as they are thrilling, from financial and risk modeling to stock picking, valuation, and quantitative analysis. I thrive on diving deep into data and emerging with insights that not only drive financial decisions but also enhance my understanding of everything around me, including sports analytics—blending my love for numbers with my enthusiasm for the Phillies and Eagles. When I'm not immersed in the world of finance or cheering from the stands, you might find me holding the winning hand at a poker table or carving down a ski slope. These pursuits aren't just hobbies; they're extensions of my love for strategy, risk, and analysis.
 
 
